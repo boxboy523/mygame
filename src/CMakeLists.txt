@@ -1,0 +1,1 @@
+add_executable(app.out main.cpp window.cpp texture.cpp)
